@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**techtamera/techtamera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tamera, an aspiring cybersecurity professional.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am super enthusiastic about learning.
+
+I currently hold the CompTia Security+ certification and the AZ-900 certification.
+
+- ⚡ Fun fact: 
+
+
+  - I lived in China for 4 months
+  
+  - Titanic & Harry Potter and the Chamber of Secrets are my two favorite movies of all time
+ 
+  - I taught myself how to play the drums and the piano
+  
